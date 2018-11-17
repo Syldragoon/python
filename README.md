@@ -1,2 +1,2 @@
-# python
-Python toolkit
+# Python toolkit
+Python toolbox
